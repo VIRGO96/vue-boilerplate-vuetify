@@ -1,4 +1,4 @@
-# vue-boilerplate-vuetify
+# vue-vuetify-pwa-boilerplate
 
 ## Project setup
 ```
